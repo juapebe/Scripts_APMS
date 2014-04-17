@@ -3,6 +3,7 @@ print "This program traverses the list of peptides from output"
 print "and displays the list of UNIQUE peptides-experiments"
 print "identified for those entries containing the provided term"
 print "in the protein name field."
+print "E.g. I want to filter down to the peptides that belong to 'BAG3'"
 
 print "\n sample usage: \n python produce_unique_pept.py <input_peptfile> <output_peptfile>"
 print "*"*8

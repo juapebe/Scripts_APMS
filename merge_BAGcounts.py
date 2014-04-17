@@ -1,4 +1,4 @@
-#This script will, for every experiment, take the BAG counts/pepitdes and add collapse them into a single annotation
+#This script will, for every experiment, take the BAG3 counts/pepitdes and add collapse them into a single annotation
 #It is recommended to do this before inputting the data into the APMS analysis pipeline, so BAG3 will show as a single def 
 
 from sys import argv
